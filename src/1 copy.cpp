@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-/*** ---------- Solver (same objective as problem) ---------- ***/
 class Solution {
 public:
     double computeMinVariance(const vector<vector<double>>& grids,
